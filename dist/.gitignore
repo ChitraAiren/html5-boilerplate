@@ -5,4 +5,11 @@ node_modules
 dist
 .cache
 
+#Ignore file
 /credentials.py
+
+#Ignore folder
+#text/
+
+#ignore onlt txt files in the folder
+text/*.txt
